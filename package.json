@@ -1,0 +1,14 @@
+{
+  "name": "04-base",
+  "version": "1.0.0",
+  "description": "Command line app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pfranccino",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
+}
