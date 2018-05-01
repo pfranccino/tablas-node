@@ -44,7 +44,7 @@ let generarArchivo = async(base, limite) => {
 
     } else {
 
-        escribirArchivo(base);
+        escribirArchivo(base, limite);
 
     }
 }
